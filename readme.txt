@@ -38,7 +38,7 @@ Structure of project:
 
 How to use data:
 - Data is organized in .txt files in directories corresponding to different speakers in the data directory
-- Each file must contain a header separating documenting information and the text, for the sample data this is '--Start of Speech--'
+- Each file must contain a header separating documenting information and the text, for the sample data this is '--Start of Text--'
 - The documenting information is not mandatory for proper code function (the header, however, is), but may be useful
 
 How to use results:
