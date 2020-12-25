@@ -5,3 +5,4 @@ union jobs
 fossil fuel
 economy
 existential threat
+extreme weather

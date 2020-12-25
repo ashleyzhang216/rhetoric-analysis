@@ -101,6 +101,7 @@ saying_11.34
 principles_11.34
 embarrassment_11.34
 millions_8.5
+extreme weather_8.5
 time_8.5
 terms_8.5
 talk_8.5

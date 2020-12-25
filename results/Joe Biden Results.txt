@@ -69,6 +69,7 @@ where_11.86
 emissions_11.86
 same_11.86
 union jobs_11.86
+extreme weather_11.86
 path_11.86
 science_11.86
 first_11.86
@@ -344,11 +345,9 @@ deadly_4.45
 once_4.45
 events_4.45
 help_4.45
-can't_4.45
 denial_4.45
 always_4.45
 another_4.45
-doesn't_4.45
 renewable_2.97
 single_2.97
 fastest_2.97

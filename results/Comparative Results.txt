@@ -1,21 +1,8 @@
 Word/Phrase_Joe Biden_Bernie Sanders_
 climate_109.73_184.24_
 climate change_45.97_175.74_
-trump_26.69_22.68_
-donald trump_28.17_14.17_
-trump_26.69_22.68_
-america_22.24_8.5_
-american_38.55_36.85_
-jobs_81.55_22.68_
-workers_20.76_0_
-union_16.31_5.67_
-manufacturing_10.38_0_
 energy_57.83_110.54_
-science_11.86_8.5_
-scientist_0_5.67_
 scientists_2.97_42.52_
-existential_4.45_34.01_
-world_13.35_85.03_
-wildfires_11.86_0_
-hurricanes_23.72_0_
-flooding_10.38_0_
+fossil fuel_1.48_99.21_
+sustainable_8.9_31.18_
+planet_7.41_96.37_
